@@ -1,0 +1,18 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "DreamerWorld",
+  "version": "0.0.1",
+  "author": "Oganesson897",
+  "overrides": "overrides",
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2859",
+        "primary": true
+      }
+    ]
+  },
+  "files": []
+}
